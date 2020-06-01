@@ -47,4 +47,4 @@ try:
         print (f"Pasien dengan, \n Golongan         : Hijau (Pasien BPJS) \nNo. Kartu Berobat : {no} \nNo. Kartu BPJS    : {bpjs} \n====TELAH TERDAFTAR====\nSilakan ambil rekam medis pasien \nPasien dimohon menuju ruang pelayanan untuk mendapatkan penanganan\nTerimakasih")
     print("")
     print("-------------------------------------")
-    print("")
+    print("") #testcomment
